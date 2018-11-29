@@ -1,0 +1,86 @@
+{
+    
+    "menu-1": "About Us",
+    "menu-2": "Measurement Consultancy",
+    "menu-3": "IT",
+    "menu-4": "Projects",
+    "menu-5": "Blog",
+    "menu-6": "Contact",
+
+    "banner-text-1": "prueba 1",
+    "banner-text-2": "Hydrocarbon Measurement Management",
+
+    "about-us": "About Us",
+    "our-story": "Our Story",
+    "our-divisions": "Our Divisions",
+    "our-team": "Our Team",
+
+    "more-information": "more information",
+
+    "home": {
+        "aboutSection": {
+            "icon-text-1": "Innovative Solutions",
+            "icon-text-2": "Efficient Attention",
+            "icon-text-3": "Deep Knowledge",
+            "icon-text-4": "Ethically Oriented",
+
+            "text-title-1": "Management Solutions for Hydrocarbons Measurement",
+
+            "paragraph-1": "FocQus is a company dedicated to the supply of consulting for measurement engineering and information technology solutions that allow the integral and efficient management of the infrastructure and measurement data of liquid and gaseous hydrocarbons.",
+            "paragraph-2": "Our services allow to meet the internal measurement requirements of our clients and those demanded by regulatory bodies in an efficient manner, both in time and cost. Our objective is to reduce the economic impact due to measurement errors and/or non-compliance with measurement requirements."
+
+        },
+        "storySection": {
+            "carousel-title-1": "2008: FocQus Consultancy in Brazil",
+            "carousel-title-2": "2010: FocQus Consulting in Peru",
+            "carousel-title-3": "2012: XMS Information Systems Project",
+            "carousel-title-4": "2013: MMS Metering Management System",
+            "carousel-title-5": "2014: FocQus Information Systems. FMS Flow Management System",
+            "carousel-title-6": "2015: CMS Compliance Management System",
+            "carousel-title-7": "2016: Integration of management systems",
+            "carousel-title-8": "2017: FocQus Corporate – USA",
+
+            "carousel-paragraph-1": "In August 2008, FocQus Measurement Technologies was established with the objective of satisfying the market’s need of independent hydrocarbon measurement consulting services. With 15 years of international experience in the oil and natural gas sector, Jorge Rosado, CEO of FocQus, starts operations in Brazil.",
+            "carousel-paragraph-2": "In response to demand for consulting services in the region, on April 2010, FocQus was legally created in Peru. Since then, the consulting services were carried out by local staff with the technical coordination of the staff in Brazil. As in Brazil, the demand for services was met not only for customers operating oil and natural gas production fields, but also for government entities responsible for overseeing natural production.",
+            "carousel-paragraph-3": "In January 2012, the project for the development of solutions for the management of measurement systems based on information systems (information technologies) was initiated. A technical development group was formed working in three different countries: Brazil, Colombia and Peru. The technical group for the multidisciplinary project included Systems, Software and Electronic engineers, which were trained in measurement and directed by measurement consultants.",
+            "carousel-paragraph-4": "in April 2013, the development of the first version of the MMS system was completed. This version, initially web-based, was updated for a client-server one by the end of the year. The testing functionalities were initiated using real data from our clients, all these being successful.",
+            "carousel-paragraph-5": "In July 2014, our Information Systems division was created as a company legally established in Brazil. In order to meet the requirements of local regulations, in November of this year, the first commercial version of the FMS system was implemented in our clients’ facilities in Brazil.",
+            "carousel-paragraph-6": "In September 2015, a management system was added to carry out inspections and audits based on the ISO 10012 standard. The CMS system was born fully integrated with the MMS and FMS management systems with the objective of performing remote audits to measurement systems.",
+            "carousel-paragraph-7": "In January 2016, all the information of the MMS and FMS management systems were integrated into a total management system for measurement systems, allowing our users to carry out metrological and measurement activities in compliance with integrated management standards.",
+            "carousel-paragraph-8": "In January 2016, all the information of the MMS and FMS management systems were integrated into a total management system for measurement systems, allowing our users to carry out metrological and measurement activities in compliance with integrated management standards."
+        },
+        "divisionsSection": {
+            "text-title-1": "Measurement Consultancy Division",
+            "text-title-2": "Information Technologies Division",
+
+            "paragraph-1": "EP1",
+            "paragraph-2": "EP2",
+
+            "bullet-1": "b1",
+            "bullet-2": "b2",
+            "bullet-3": "b3",
+            "bullet-4": "b4",
+            "bullet-5": "b5",
+            "bullet-6": "b6"
+        },
+        "teamSection": {
+            "paragraph-1": "Paragraph 1",
+            "paragraph-2": "Paragraph 2",
+            "commitment": "Commitment",
+            "ethics": "Ethics",
+            "excellence": "Excellence"
+        }
+    },
+    "about-us-page": {
+        "aboutSection": {
+            "we-are": " a company specialized in the implementation of management systems for hydrocarbon measurements and in the development of IT solutions for the management of hydrocarbon measurement data.",
+            "mision": " is to be recognized as an innovative and independent company in the area of measurement consultancy and IT solutions applied to infrastructure and hydrocarbons measurement data management.",
+            "vision": " is to provide measurement consulting services and IT solutions that improve the effectiveness and efficiency of the management of measurement processes and the value chain of our clients. ",
+            "our": "Our ",
+            "we-are-strong": "WE ARE",
+            "vision-strong": "VISION",
+            "mision-strong": "MISION"
+        }
+    }
+
+}

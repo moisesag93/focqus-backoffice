@@ -1,0 +1,15 @@
+<h1 mat-dialog-title>Editar "{{data.title}}"</h1>
+<hr>
+<div mat-dialog-content>
+  <ng-container *ngFor="let item of pageContent; let i = index">
+    <h5><i class="fa fa-caret-right"></i>&nbsp;{{item.title}}</h5>
+    <hr>
+    <ng-container *ngFor="let content of item.content; let j = index">
+      <strong>{{content.id}}</strong>
+      <mat-form-field>
+        <textarea matInput>{{content.text}}</textarea>
+      </mat-form-field>
+    </ng-container>
+  </ng-container>
+
+</div>

@@ -1,0 +1,116 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "~ngx-toastr/toastr.css";
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400|Roboto");
+
+html {
+  min-height: 100% !important;
+}
+
+body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+#main {
+  height: calc(100% - 68px);
+  margin: 0px !important;
+  padding: 0 !important;
+}
+
+main {
+  padding: 3rem !important;
+  background: #fafafa;
+}
+
+header,
+footer,
+aside,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+p,
+a,
+span {
+  font-family: "Raleway", sans-serif;
+}
+
+section.card {
+  box-shadow: 0px 0px 20px #dedede;
+  border-radius: 10px;
+}
+
+section,
+table {
+  width: 100%;
+}
+
+table {
+  margin: 2rem;
+  box-shadow: 0 0 0 !important;
+  width: calc(100% - 4rem);
+  border: 1px solid #dedede;
+}
+
+/**
+ * Material Custom Styles
+ */
+.mat-header-cell {
+  background: #3f3f3f !important;
+  color: #ffffff;
+}
+
+.mat-row {
+  transition: background 0.2s ease;
+}
+
+.mat-row:hover {
+  background: #dedede;
+}
+
+.mat-sort-header-arrow {
+  color: #5e5eff !important;
+  font-weight: bold !important;
+}
+
+.mat-sort-header-button,
+.id-cell {
+  font-weight: bold !important;
+}
+
+.id-cell {
+  color: #6f6f6f !important;
+}
+
+td.mat-cell,
+td.mat-footer-cell,
+th.mat-header-cell {
+  padding: 0;
+  border-bottom: 1px solid #dedede !important;
+  font-family: "Roboto";
+}
+
+td.mat-cell {
+  font-size: 0.79rem;
+  letter-spacing: -0.7px;
+}
+
+.mat-button {
+  min-width: 47px !important;
+}
+
+table .mat-button i {
+  color: #5e5efa;
+}
+
+.mat-dialog-content h5 {
+  padding: 5px;
+  background: #2f2f2f;
+  color: #ffffff;
+}

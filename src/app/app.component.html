@@ -1,0 +1,7 @@
+<app-header></app-header>
+<div id="main" class="container-fluid row">
+  <app-sidebar class="bg-dark" [class.sidebar-collapsed]="sidebarCollapsed" (collapseSidebar)="collapse($event)"></app-sidebar>
+  <main [class.sidebar-collapsed]="sidebarCollapsed">
+    <router-outlet></router-outlet>
+  </main>
+</div>

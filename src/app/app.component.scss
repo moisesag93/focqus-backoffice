@@ -1,0 +1,29 @@
+/**
+ * @Autor: Moisés Aguiar [09/11/2018]
+ * @Modificado:
+ * @Descripción:
+ * @Version: 1.0
+ */
+app-sidebar {
+    min-height: calc(100% - 68px);
+    padding: 0 !important;
+    width: 172px;
+    overflow: hidden;
+}
+
+main {
+    width: calc(100% - 172px);
+}
+
+
+main, app-sidebar {
+    transition: all 0.35s ease-out;
+}
+
+app-sidebar.sidebar-collapsed {
+    width: 48px;
+}
+
+main.sidebar-collapsed {
+    width: calc(100% - 48px);
+}

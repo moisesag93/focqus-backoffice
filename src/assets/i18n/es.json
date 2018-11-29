@@ -1,0 +1,90 @@
+{
+
+    "menu-1": "Nosotros",
+    "menu-2": "Consultorías de Medición",
+    "menu-3": "Tecnologías de Información",
+    "menu-4": "Proyectos",
+    "menu-5": "Blog",
+    "menu-6": "Contacto",
+
+    "banner-text-1": "Soluciones completas para",
+    "banner-text-2": "Gestion de la Medición de Hidrocarburos",
+
+    "about-us": "Nosotros",
+    "our-story": "Nuestra Historia",
+    "our-divisions": "Nuestras Divisiones",
+    "our-team": "Nuestro Equipo",
+
+    "more-information": "más información",
+
+    "home": {
+        "aboutSection": {
+            "icon-text-1": "Soluciones Innovadoras",
+            "icon-text-2": "Atención Eficiente",
+            "icon-text-3": "Conocimiento Profundo",
+            "icon-text-4": "Éticamente Orientado",
+
+            "text-title-1": "Soluciones para la Gestión de la Medición de Hidrocarburos",
+
+            "paragraph-1": "FocQus es una empresa dedicada al suministro de consultoría de Ingeniería de medición y de soluciones de tecnología de la información que permiten la gestión integral y eficiente de la infraestructura y datos de medición de hidrocarburos líquidos y gaseosos.",
+            "paragraph-2": "Nuestros servicios permiten atender los requerimientos de medición internos de nuestros clientes y de aquellos demandados por los organismos regulatorios de forma eficiente tanto en tiempo como en costo. Nuestro objetivo es reducir el impacto económico debido a errores de medición y/o al no cumplimiento de requisitos de medición."
+        },
+        "storySection": {
+            "carousel-title-1": "2008: FocQus Consultoria en Brasil",
+            "carousel-title-2": "2010: FocQus Consultoria en Perú",
+            "carousel-title-3": "2012: Proyecto XMS Sistemas de Información",
+            "carousel-title-4": "2013: MMS Metering Management System",
+            "carousel-title-5": "2014: FocQus Sistemas de Información. FMS Flow Management System",
+            "carousel-title-6": "2015: CMS Compliance Management System",
+            "carousel-title-7": "2016: Integración de sistemas de gestión",
+            "carousel-title-8": "2017: FocQus Corporate - USA",
+
+            "carousel-paragraph-1": "En agosto 2008 se establece FocQus Tecnologías de Medición con el objetivo de atender la necesidad del mercado por servicios independientes de consultoría de medición de hidrocarburos. Luego de 15 años de experiencia internacional en el sector de petróleo y gas natural, Jorge Rosado, CEO de FocQus, inicia operaciones en Brasil.",
+            "carousel-paragraph-2": "En función de la demanda de servicios de Consultoría en la región, en el mes de Abril del 2010 fue creada legalmente la operación de FocQus en Perú. Desde esta fecha, los servicios de consultoría fueron realizados por personal local con la coordinación técnica del staff en Brasil. A igual que en Brasil, la demanda de servicios fue atendida no solamente para clientes operadores de campos de producción de petróleo y gas natural, sino también para entidades gubernamentales encargadas de la fiscalización de la producción nacional.",
+            "carousel-paragraph-3": "En Enero del 2012 es iniciado el proyecto de desarrollo de soluciones para la gestión de los sistemas de medición basados en sistemas de información (tecnologías de la información). Fue formado un grupo técnico de desarrollo trabajando en tres diferentes países: Brasil, Colombia y Perú. El grupo técnico de proyecto multidisciplinar incluyó ingenieros de sistemas, de Software y Electrónicos; los cuales fueron entrenados en medición y dirigidos por los consultores de medición.",
+            "carousel-paragraph-4": "En Abril del 2013 es finalizado el desarrollo de la primera versión del sistema MMS. Esta versión Inicialmente basada en web, fue actualizada para una cliente-servidor a finales de año. Las pruebas de las funcionalidades fueron iniciadas usando datos reales de nuestros clientes, resultando todas estas siendo exitosas.",
+            "carousel-paragraph-5": "En Julio del 2014 es creada nuestra división de Sistemas de Información, como empresa legalmente instituida en Brasil. Con el objetivo de atender los requerimientos de reglamentación local, en Noviembre de este año es implementada la primera versión comercial del sistema FMS en las instalaciones de nuestros clientes en Brasil.",
+            "carousel-paragraph-6": "En Setiembre del 2015 es adicionado el sistema de gestión para realización de inspecciones y auditorias basadas en la norma ISO 10012. El  sistema CMS nace integrado completamente a los sistemas de gestión MMS y FMS con el objetivo de realizar auditorias remotas a sistemas de medición.",
+            "carousel-paragraph-7": "En enero del 2016 son integradas todas las información de los sistemas de gestión MMS y FMS en un sistema de gestión total para sistemas de medición, permitiendo a nuestros usuarios la realización de actividades metrológicas y de medición en atendimiento a normas de gestión integrada.",
+            "carousel-paragraph-8": "En enero del 2016 son integradas todas las información de los sistemas de gestión MMS y FMS en un sistema de gestión total para sistemas de medición, permitiendo a nuestros usuarios la realización de actividades metrológicas y de medición en atendimiento a normas de gestión integrada."
+        },
+        "divisionsSection": {
+            "text-title-1": "División de consultorías de medición",
+            "text-title-2": "División de Tecnologías de la información",
+
+            "paragraph-1": "Actuamos desde las etapas iniciales de un proyecto de implementación de sistemas de medición (Estudios de Ingeniería) hasta las etapas finales del mismo (Arranque y operación de los sistemas de medición).",
+            "paragraph-2": "Desarrollamos e implementamos soluciones tecnológicas avanzadas que realizan la colecta, análisis, procesamiento, distribución de los datos de medición; así como la gestión de las actividades metrológicas y operacionales de los sistemas de medición.",
+
+            "bullet-1": "Consultores Independientes",
+            "bullet-2": "Amplia y comprobada experiencia",
+            "bullet-3": "Comunicación Eficiente",
+            "bullet-4": "Soluciones tecnológicas avanzadas",
+            "bullet-5": "Excelente servicio al cliente",
+            "bullet-6": "Cuidado de datos"
+        },
+        "teamSection": {
+            "paragraph-1": "Nuestro principal valor es nuestro equipo humano que ofrece un servicio dedicado, ético y de calidad.",
+            "paragraph-2": "Contamos con un equipo humano de profesionales altamente calificados, con amplio conocimiento y experiencia práctica en la implementación de sistemas de gestión para sistemas de medición de petróleo y gas natural.",
+
+            "commitment": "Compromiso",
+            "ethics": "Ética",
+            "excellence": "Excelencia"
+        }
+    },
+    "about-us-page": {
+        "aboutSection": {
+            "we-are": " una empresa especialista en la implantación de  sistemas de gestión para mediciones de hidrocarburos y  en el desarrollo de soluciones de TI para la gestión de datos de medición de hidrocarburos.",
+            "mision": " es ser reconocidos como una empresa innovadora e independiente en el área de consultoría de medición y de soluciones de TI aplicadas a la gestión de infraestructura y datos de medición hidrocarburos.",
+            "vision": " es suministrar servicios de consultoría de medición y soluciones de TI que mejoren la eficacia y eficiencia de la gestión de los procesos de medición y la cadena de valor de nuestros clientes.",
+            "our": "Nuestra ",
+            "we-are-strong": "SOMOS",
+            "vision-strong": "VISION",
+            "mision-strong": "MISION"
+        }
+    },
+    "consultancy-page": {
+        "page-title": "Measurement Consultancy",
+        "paragraph-1": "Conocimiento y experiencia comprobada en la implementación de sistemas de gestión de sistemas de medición de hidrocarburos.",
+        "paragraph-2": "FocQus, a través de la División de Consultoría, ejecuta servicios específicos para cada una de las etapas para la implementación y operación de sistemas de medición de fluidos. Nuestra consultoría especializada nos permite actuar desde las etapas iniciales de un proyecto de implementación de sistemas de medición (Estudios de Ingeniería), hasta las etapas finales del mismo (Arranque y operación de los sistemas de medición)."
+    }
+}

@@ -1,0 +1,36 @@
+/**
+ * @Autor: Moisés Aguiar [09/11/2018]
+ * @Modificado:
+ * @Descripción:
+ * @Version: 1.0
+ */
+aside, ul, li, a {
+    color: #ffffff;
+    padding: 0 !important;
+}
+
+ul {
+    list-style: none;
+}
+
+li a {
+    height: 45px;
+    padding-left: 1rem !important;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-size: .91rem;
+    transition-property: background;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    border-top: 1px solid #4c5157;
+    border-bottom: 1px solid #4c5157;
+    i {
+        margin-right: 1rem;
+        font-size: 1.1rem;
+    }
+}
+
+li a:hover {
+    background: #4c5157;
+}
